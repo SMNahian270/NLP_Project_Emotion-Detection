@@ -1,0 +1,12 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Conda environments
+.conda/
+env/
+venv/
+ENV/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
